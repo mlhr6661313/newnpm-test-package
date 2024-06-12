@@ -1,6 +1,6 @@
 {
-  "name": "newnpm-test-package",
-  "version": "0.0.3",
+  "name": "newnpm-test-git-package",
+  "version": "0.0.1",
   "description": "Test github package",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
